@@ -1,0 +1,16 @@
+ .message {
+    margin: 5px;
+    padding: 8px 12px;
+    border-radius: 8px;
+    max-width: 60%;
+}
+
+.envoye {
+    background-color: #dcf8c6; /* vert clair pour messages envoyés */
+    align-self: flex-end;
+}
+
+.recu {
+    background-color: #fff; /* blanc pour messages reçus */
+    align-self: flex-start;
+}
